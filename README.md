@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Vanil Patel 👋</h1>
+<h1 align="center">Hi, I'm Vanil Patel </h1>
 <h3 align="center">Data Analyst | Python Developer | ML Enthusiast</h3>
-<h4 align="center">📍 Mehsana, Gujarat | B.E. Computer Science @ KSV University (2024–27)</h4>
+<h4 align="center"> Mehsana, Gujarat | B.E. Computer Science @ KSV University (2024–27)</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/vanil-patel-0a4b48221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,18 +10,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+ About Me
 
-- 🎓 Final-year **CS student** specialising in **Data Science & AI**
-- 📊 Passionate about turning raw data into **actionable business insights**
-- 🤖 Building ML models and **interactive dashboards** for real-world problems
-- 🏆 **SIH 2025 National Finalist** (Top ~1%) | **Impacthon 2025 Finalist**
-- 📜 **NPTEL Python for Data Science** certified | Google Data Analytics certified
-- 💬 Ask me about: `Python` `Pandas` `SQL` `Power BI` `Machine Learning` `EDA`
+-  Final-year **CS student** specialising in **Data Science & AI**
+-  Passionate about turning raw data into **actionable business insights**
+-  Building ML models and **interactive dashboards** for real-world problems
+-  **SIH 2025 National Finalist** (Top ~1%) | **Impacthon 2025 Finalist**
+-  **NPTEL Python for Data Science** certified | Google Data Analytics certified
+-  Ask me about: `Python` `Pandas` `SQL` `Power BI` `Machine Learning` `EDA`
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Databases**
 
@@ -50,58 +50,58 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📉 [Customer Churn Prediction](https://github.com/VanilPatel/customer-churn-prediction)
+###  [Customer Churn Prediction](https://github.com/VanilPatel/customer-churn-prediction)
 > ML pipeline predicting customer churn on telecom dataset (100K+ rows)
-- 🎯 **89% accuracy** with XGBoost classifier
-- 🔧 Engineered 12 features, reduced false positives by ~25%
+-  **89% accuracy** with XGBoost classifier
+-  Engineered 12 features, reduced false positives by ~25%
 - `Python` `Pandas` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
 
 ---
 
-### 📊 [Sales Performance Dashboard](https://github.com/VanilPatel/sales-performance-dashboard)
+###  [Sales Performance Dashboard](https://github.com/VanilPatel/sales-performance-dashboard)
 > EDA & interactive visualisation on 5-year retail sales data (50K+ records)
-- 📈 Built Power BI dashboard with 8 KPI cards, cut reporting time by **~40%**
-- 🔍 Identified top revenue drivers & seasonal demand patterns
+-  Built Power BI dashboard with 8 KPI cards, cut reporting time by **~40%**
+-  Identified top revenue drivers & seasonal demand patterns
 - `Python` `Pandas` `Power BI` `SQL` `Excel` `Plotly`
 
 ---
 
-### 🦠 [COVID-19 Trend Analysis](https://github.com/VanilPatel/covid19-trend-analysis)
+###  [COVID-19 Trend Analysis](https://github.com/VanilPatel/covid19-trend-analysis)
 > Time-series forecasting on global COVID-19 data across 10 countries
-- 📡 ARIMA model with **MAPE < 8%** for 30-day predictions
-- 🗺️ Animated Plotly choropleth maps for global wave visualisation
+-  ARIMA model with **MAPE < 8%** for 30-day predictions
+-  Animated Plotly choropleth maps for global wave visualisation
 - `Python` `Pandas` `Statsmodels` `Plotly` `NumPy`
 
 ---
 
-### 🤖 [Rule-Based AI / NLP Chatbot](https://github.com/VanilPatel/nlp-chatbot)
+###  [Rule-Based AI / NLP Chatbot](https://github.com/VanilPatel/nlp-chatbot)
 > Conversational AI engine with multi-turn dialogue support
-- 💬 **92% intent classification accuracy**
-- 🔄 Session-level context tracking for multi-turn conversations
+-  **92% intent classification accuracy**
+-  Session-level context tracking for multi-turn conversations
 - `Python` `NLP` `NLTK` `Scikit-learn` `Machine Learning`
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-| 🥇 Achievement | 📅 Year |
+|  Achievement |  Year |
 |---|---|
 | Smart India Hackathon (SIH) — **National Finalist** (Top ~1%) | 2025 |
 | Impacthon — **University Level Finalist**, VSITR | 2025–26 |
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- 🐍 **Python for Data Science** — NPTEL / SWAYAM (2024–25)
-- 📊 **Google Data Analytics Professional Certificate** — Coursera (2025)
-- 🛠️ **Hands-on Workshop on Data Analytics & Python** — VSITR (Feb–Mar 2025)
+-  **Python for Data Science** — NPTEL / SWAYAM (2024–25)
+   **Google Data Analytics Professional Certificate** — Coursera (2025)
+-  **Hands-on Workshop on Data Analytics & Python** — VSITR (Feb–Mar 2025)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VanilPatel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -114,5 +114,5 @@
 
 ---
 
-<p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
-<p align="center">📫 <b>Open to Data Analyst internships & collaborations!</b> Reach me at <a href="mailto:vanshpatel106@gmail.com">vanshpatel106@gmail.com</a></p>
+<p align="center"> <i>If you find my projects useful, consider giving them a star!</i> </p>
+<p align="center"> <b>Open to Data Analyst internships & collaborations!</b> Reach me at <a href="mailto:vanshpatel106@gmail.com">vanshpatel106@gmail.com</a></p>
